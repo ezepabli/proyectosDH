@@ -1,0 +1,13 @@
+[
+    {
+        "titulo" : "LIMPIAR",
+        "descripcion" : "DEBEMOS LIMPIAR LA HABITACION",
+        "estado" : "PENDIENTE",
+        "importancia" : 2
+    },{
+        "titulo" : "ESTUDIAR",
+        "descripcion" : "ESTUDIAR Y PRACTICAR PARA EL CURSO",
+        "estado" : "EN PROCESO",
+        "importancia" : 4
+    }
+]

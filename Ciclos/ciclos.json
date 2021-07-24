@@ -1,0 +1,23 @@
+[
+    {
+    "titulo": "LIMPIAR",
+    "fecha": "2021-06-30",
+    "descripcion": "Limpiar habitación",
+    "estado": "PENDIENTE",
+    "importancia": 1
+    },
+    {
+    "titulo": "ESTUDIAR",
+    "fecha": "2021-06-20",
+    "descripcion": "Estudiar Código",
+    "estado": "EN CURSO",
+    "importancia": 5
+    },
+    {
+    "titulo": "Seguir estudiando",
+    "fecha": "2021-06-21",
+    "descripcion": "Estudiar Código",
+    "estado": "FINALIZADA",
+    "importancia": 4
+    }
+]
